@@ -2,7 +2,7 @@
 
 # Public global aggregator of those who needs help and can provide help
 
-- (EN) https://eu-ua-help.net/
+- (EN, soon other languages) https://eu-ua-help.net/
 
 # Slovakia
 - Help Forms:
