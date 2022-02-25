@@ -24,3 +24,6 @@ Information For Asylim Seekers:
 
 # Hungary
 - TBD
+
+# Canada
+- (EN) https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html - Developing information keep an eye on this page.
