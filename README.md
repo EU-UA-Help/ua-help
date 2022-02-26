@@ -1,10 +1,19 @@
 # Useful resources for those who would like to help Ukrainian refugees
 
-# Public global aggregator of those who needs help and can provide help
+# Global
 
 - (EN, soon other languages) https://eu-ua-help.net/
 
+# Fundraising
+
+- (EN) [National Bank of Ukraine SWIFT accounts](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) to raise funds for Ukraine's Armed Forces 
+
+# Ukraine
+
+- (UA) [FB Group for those looking for transport to the border](https://www.facebook.com/groups/2046625358831197/)
+
 # Slovakia
+
 - Help Forms:
   - (SK) https://www.ktopomozeukrajine.sk/
   - (SK) https://forms.office.com/pages/responsepage.aspx?id=QVzxYZKgVkqE3abAXyTFJl3K4JuTJ7RAiPxLvkjnNatUNUpZOThONzI5QzNXWDlJTjlJM0pXUTVGVS4u - If you can help - you can register here
