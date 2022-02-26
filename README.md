@@ -2,7 +2,11 @@
 
 # Global
 
-- (EN, soon other languages) https://eu-ua-help.net/
+- (EN) [Extensive List of Resources for Ukrainian Refugees](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit)
+- (EN) [Ukrainian Global Task Force](https://docs.google.com/document/d/1r4SgDSyFbOppi4TBTQ-i5Guam9W47lMb88D_3Ao_XNU/edit#)
+- (EN, UA, RU) [Global Help Resources Aggregator](https://eu-ua-help.net/)
+- (EN) [Project Dynamo - Request for Ukraine Evacuation Assistance](https://airtable.com/shrJtUmYLB70KGXiS)
+- (EN) [Help with tech support for Ukrainian NGOs](https://www.techtotherescue.org/tech/tech-for-ukraine)
 
 # Fundraising
 
@@ -29,7 +33,7 @@ Information For Asylim Seekers:
 - In Slovak: https://www.hrl.sk/userfiles/files/SJ%20FAQ.pdf
 
  # Poland
-- TBD
+- (UA) (Free healthcare for ukranians in Poland)[https://www.luxmed.pl//_files/UserFiles/File/Pakiet_dla_Ukrainy_UKR.pdf]
 
 # Hungary
 - TBD
