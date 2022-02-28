@@ -18,6 +18,8 @@
 
 # Slovakia
 
+- Information about entering the country: https://ua.gov.sk/en.html
+- Official gov website with a list of accomodation: https://pomocpreukrajinu.sk/
 - Help Forms:
   - (SK) https://www.ktopomozeukrajine.sk/
   - (SK) https://forms.office.com/pages/responsepage.aspx?id=QVzxYZKgVkqE3abAXyTFJl3K4JuTJ7RAiPxLvkjnNatUNUpZOThONzI5QzNXWDlJTjlJM0pXUTVGVS4u - If you can help - you can register here
